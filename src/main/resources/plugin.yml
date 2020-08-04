@@ -1,0 +1,4 @@
+main: "kun.ban_command_craft.ban_craft.Main"
+name: "ban_command"
+version: "1.0.0"
+api-version: "1.15"
