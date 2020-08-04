@@ -8,6 +8,6 @@ public class chat_check implements Listener {
 
     @EventHandler
     public void onGetCommand(PlayerCommandPreprocessEvent e){
-        
+
     }
 }
